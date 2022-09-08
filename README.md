@@ -1,2 +1,2 @@
 # Restaurant
-site statique s'un restaurant
+site statique d'un restaurant
